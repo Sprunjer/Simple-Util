@@ -1,5 +1,8 @@
+git init
 
 git add -A
+
+git status 
 
 echo "Enter the commit message"
 
